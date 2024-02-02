@@ -775,20 +775,3 @@ a:focus {
 .info_section .map_container .map #googleMap {
   height: 100%;
 }
-
-/* footer section*/
-.footer_section {
-  position: relative;
-  background-color: #ffffff;
-  text-align: center;
-}
-
-.footer_section p {
-  color: #063547;
-  padding: 25px 0;
-  margin: 0;
-}
-
-.footer_section p a {
-  color: inherit;
-}
