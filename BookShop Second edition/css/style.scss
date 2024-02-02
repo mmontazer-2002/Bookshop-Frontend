@@ -4,8 +4,6 @@ $black: #000000;
 $primary1: #44b89d;
 $primary2: #063547;
 $textCol: #999;
-
-// fonts import - font-family: 'Mulish', sans-serif;
 @import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400;500;600;700&display=swap');
 
 @mixin main-font {
@@ -705,6 +703,3 @@ a:focus {
     }
   }
 }
-
-
-// end footer section
